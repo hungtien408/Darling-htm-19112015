@@ -2652,7 +2652,7 @@ body {
     border-radius: 20px;
 }
 /*====info account===*/
-.tb-infoacc {
+.tb-infoacc, .tb-success {
     color: #7b7b7b;
     font-size: 12px;
     line-height: 20px;
@@ -2665,7 +2665,7 @@ body {
     border-top: none;
     background-color: #fff;
 }
-.tb-infoacc .title-info
+.tb-infoacc .title-info, .tb-success .title-info
 {
     padding: 0;
 }
@@ -2774,6 +2774,48 @@ body {
 .btn-order:hover, .btn-order:hover a
 {
     background-color: #ed1c24;
+}
+/*===payment success===*/
+.tb-success
+{
+    overflow: hidden;
+    padding: 32px 40px;
+    font-size: 14px;
+}
+.btn-button-ps
+{
+    width: 60%;
+}
+.title-success
+{
+    color: #282828;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 34px;
+}
+.note a
+{
+    color: #09537c;
+    font-weight: 600;
+    font-size: 14px;
+}
+.note strong
+{
+    border: 1px solid #dadada;
+    font-size: 16px;
+    color: #555555;
+    width: 130px;
+    height: 30px;
+    padding: 5px;
+}
+.note span
+{
+    color: #ec1d25; 
+    font-weight: bold;
+}
+.code-dh
+{
+    padding: 12px 0;
 }
 /*======================================================FOOTER===========================================*/
 #footer
