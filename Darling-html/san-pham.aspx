@@ -99,7 +99,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -126,7 +126,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -153,7 +153,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-2.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -182,7 +182,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -209,7 +209,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -236,7 +236,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-2.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -265,7 +265,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -292,7 +292,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                     <div class="pro-bottom">
@@ -319,7 +319,7 @@
                                     <div class="box-dis">
                                         <strong>-25%</strong></div>
                                     <div class="bh-box">
-                                        <img src="assets/images/icon-bh.png" alt=""></div>
+                                        <strong>24</strong></div>
                                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                         <img src="assets/images/pro-img-2.jpg" alt="" /></a>
                                     <div class="pro-bottom">

@@ -50,7 +50,8 @@
             };
             $('.menu-pro').accordion({
                 collapsible: true,
-                icons: icons
+                icons: icons,
+                heightStyle: "content"
             });
             $(".menu-pro").accordion("option", "active", 1);
             $("#tabs").tabs();

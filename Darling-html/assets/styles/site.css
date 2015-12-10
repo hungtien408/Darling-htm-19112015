@@ -580,6 +580,9 @@ body {
     overflow: hidden;
     background-repeat: no-repeat;
 }
+.ui-accordion-content {
+    max-height: 179px;
+}
 /*=====================================*/
 .section-box
 {
@@ -843,6 +846,19 @@ body {
     position: absolute;
     width: 109px;
     z-index: 99;
+    background: url("../images/icon-bh.png") no-repeat left top;
+}
+.bh-box strong {
+    color: #1cba10;
+    display: block;
+    font-size: 28px;
+    height: 38px;
+    line-height: 50px;
+    text-align: center;
+    width: 38px;
+    position: relative;
+    left: 4px;
+    top: -6px
 }
 .pro-bottom a
 {
@@ -1221,10 +1237,9 @@ body {
     float: left;
     padding: 20px 0;
 }
-.list-nav .img-news {
+.list-nav .img-news img {
     float: left;
     width: 128px;
-    height: 85px;
 }
 .list-nav .news-content {
     float: left;
@@ -2185,13 +2200,13 @@ body {
     vertical-align: top;
     width: 100%;
 }
-.btn-a:hover, .btn-button:hover,
+/*.btn-a:hover, .btn-button:hover,
 .btn-a.show
 {
     background: #ff6c00;
     color: #fff;
     text-decoration: none;
-}
+}*/
 /*====Tim kiem====*/
 .form-search {
     background-color: #00aced;
@@ -2482,7 +2497,6 @@ body {
     border: solid 1px #d6d6d6;
     margin-left: 20px;
     text-align: center;
-    height: 110px;
     width: 90px;
 }
 .tb-cart td .cart-img img

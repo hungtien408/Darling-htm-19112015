@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/site-sub.master" AutoEventWireup="true"
     CodeFile="san-pham-chi-tiet.aspx.cs" Inherits="san_pham_chi_tiet" %>
 
-<asp:Content ID="Content5" ContentPlaceHolderID="head" Runat="Server">
+<asp:Content ID="Content5" ContentPlaceHolderID="head" runat="Server">
     <title>DARLING</title>
 </asp:Content>
 <asp:Content ID="Content1" ContentPlaceHolderID="colLeft" runat="Server">
@@ -24,7 +24,7 @@
                     <div class="box-dis">
                         <strong>-25%</strong></div>
                     <div class="bh-box">
-                        <img src="assets/images/icon-bh.png" alt=""></div>
+                        <strong>24</strong></div>
                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                     <div class="pro-bottom">
@@ -51,7 +51,7 @@
                     <div class="box-dis">
                         <strong>-25%</strong></div>
                     <div class="bh-box">
-                        <img src="assets/images/icon-bh.png" alt=""></div>
+                        <strong>24</strong></div>
                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                     <div class="pro-bottom">
@@ -78,7 +78,7 @@
                     <div class="box-dis">
                         <strong>-25%</strong></div>
                     <div class="bh-box">
-                        <img src="assets/images/icon-bh.png" alt=""></div>
+                        <strong>24</strong></div>
                     <a href="san-pham-chi-tiet.aspx" class="pro-img">
                         <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                     <div class="pro-bottom">
@@ -188,7 +188,7 @@
                         Thông số kỹ thuật</h2>
                     <div class="wrap-digital">
                         <div class="img-digital">
-                            <img src="assets/images/img-thongsokythuat.jpg" alt=""/></div>
+                            <img src="assets/images/img-thongsokythuat.jpg" alt="" /></div>
                         <div class="digital-content">
                             <table class="tb-digital" cellpadding="0" cellspacing="0">
                                 <tbody>
@@ -197,13 +197,13 @@
                                             Series
                                         </td>
                                         <td>
-                                            Series <br/><span>6</span>
+                                            Series
+                                            <br />
+                                            <span>6</span>
                                         </td>
                                         <td>
-                                            
                                         </td>
                                         <td>
-                                            
                                         </td>
                                     </tr>
                                     <tr>
@@ -211,14 +211,25 @@
                                             Display
                                         </td>
                                         <td>
-                                            <p>Kích thước màn hình <br/><span>60"</span></p>
-                                            <p>Screen Curvature <br/><span>N/A</span></p>
+                                            <p>
+                                                Kích thước màn hình
+                                                <br />
+                                                <span>60"</span></p>
+                                            <p>
+                                                Screen Curvature
+                                                <br />
+                                                <span>N/A</span></p>
                                         </td>
                                         <td>
-                                            <p>Độ phân giải <br/><span>1920 x 1080</span></p>
+                                            <p>
+                                                Độ phân giải
+                                                <br />
+                                                <span>1920 x 1080</span></p>
                                         </td>
                                         <td>
-                                            <p>Ultra Clear Panel<br/><span>N/A</span></p>
+                                            <p>
+                                                Ultra Clear Panel<br />
+                                                <span>N/A</span></p>
                                         </td>
                                     </tr>
                                     <tr>
@@ -226,25 +237,65 @@
                                             Video
                                         </td>
                                         <td>
-                                            <p>Engine Hình ảnh <br/><span>Hypereal</span></p>
-                                            <p>Tỷ lệ tương phản tĩnh <br/><span>Mega Contrast</span></p>
-                                            <p>Nano Crystal Color <br/><span>N/A</span></p>
-                                            <p>Auto Depth Enhancer <br/><span>N/A</span></p>
-                                            <p>Chế độ xem phim <br/><span>Có</span></p>
+                                            <p>
+                                                Engine Hình ảnh
+                                                <br />
+                                                <span>Hypereal</span></p>
+                                            <p>
+                                                Tỷ lệ tương phản tĩnh
+                                                <br />
+                                                <span>Mega Contrast</span></p>
+                                            <p>
+                                                Nano Crystal Color
+                                                <br />
+                                                <span>N/A</span></p>
+                                            <p>
+                                                Auto Depth Enhancer
+                                                <br />
+                                                <span>N/A</span></p>
+                                            <p>
+                                                Chế độ xem phim
+                                                <br />
+                                                <span>Có</span></p>
                                         </td>
                                         <td>
-                                            <p>Clear Motion Rate <br/><span>200</span></p>
-                                            <p>Micro Dimming <br/><span>Micro Dimming Pro</span></p>
-                                            <p>Wide Color Enhancer (Plus) <br/><span>Có</span></p>
-                                            <p>Contrast Enhancer <br/><span>N/A</span></p>
-                                            <p>Natural Mode Support <br/><span>Có</span></p>
+                                            <p>
+                                                Clear Motion Rate
+                                                <br />
+                                                <span>200</span></p>
+                                            <p>
+                                                Micro Dimming
+                                                <br />
+                                                <span>Micro Dimming Pro</span></p>
+                                            <p>
+                                                Wide Color Enhancer (Plus)
+                                                <br />
+                                                <span>Có</span></p>
+                                            <p>
+                                                Contrast Enhancer
+                                                <br />
+                                                <span>N/A</span></p>
+                                            <p>
+                                                Natural Mode Support
+                                                <br />
+                                                <span>Có</span></p>
                                         </td>
                                         <td>
-                                            <p>Motion Refresh Rate<br/><span>100</span></p>
-                                            <p>Precision Black (Local Dimming)<br/><span>N/A</span></p>
-                                            <p>PurColor<br/><span>N/A</span></p>
-                                            <p>Auto Motion Plus<br/><span>Có</span></p>
-                                            <p>Peak llliminator<br/><span>N/A</span></p>
+                                            <p>
+                                                Motion Refresh Rate<br />
+                                                <span>100</span></p>
+                                            <p>
+                                                Precision Black (Local Dimming)<br />
+                                                <span>N/A</span></p>
+                                            <p>
+                                                PurColor<br />
+                                                <span>N/A</span></p>
+                                            <p>
+                                                Auto Motion Plus<br />
+                                                <span>Có</span></p>
+                                            <p>
+                                                Peak llliminator<br />
+                                                <span>N/A</span></p>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -276,7 +327,7 @@
                                             <div class="box-dis">
                                                 <strong>-25%</strong></div>
                                             <div class="bh-box">
-                                                <img src="assets/images/icon-bh.png" alt=""></div>
+                                                <strong>24</strong></div>
                                             <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                                 <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                             <div class="pro-bottom">
@@ -303,7 +354,7 @@
                                             <div class="box-dis">
                                                 <strong>-25%</strong></div>
                                             <div class="bh-box">
-                                                <img src="assets/images/icon-bh.png" alt=""></div>
+                                                <strong>24</strong></div>
                                             <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                                 <img src="assets/images/pro-img-1.jpg" alt="" /></a>
                                             <div class="pro-bottom">
@@ -330,7 +381,7 @@
                                             <div class="box-dis">
                                                 <strong>-25%</strong></div>
                                             <div class="bh-box">
-                                                <img src="assets/images/icon-bh.png" alt=""></div>
+                                                <strong>24</strong></div>
                                             <a href="san-pham-chi-tiet.aspx" class="pro-img">
                                                 <img src="assets/images/pro-img-2.jpg" alt="" /></a>
                                             <div class="pro-bottom">
